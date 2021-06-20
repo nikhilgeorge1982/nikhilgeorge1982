@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhilgeorge1982
-- 👀 I’m interested in JavaScripts, React, Node.js, MongoDb, PostgreSQL,..
-- 📫 How to reach me nikhilgeorge1982@gmail.com
+- 👋 Hi, I’m Nikhil George 
+- 👀 I’m interested in Full Stack Development, JavaScripts, React, Node.js, GraphQL, MongoDb, PostgreSQL,...
+- 📫 Please reach me nikhilgeorge1982@gmail.com
 
